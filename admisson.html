@@ -1,0 +1,53 @@
+---
+layout: page
+title: Admisson
+description: >
+
+hide_description: true
+sitemap: false
+---
+
+
+{% capture site_tags %}{% for tag in site.tags %}{{ tag | first }}{% unless forloop.last %},{% endunless %}{% endfor %}{% endcapture %}
+{% assign tags_list = site_tags | split:',' | sort %}
+
+<div class="main-content-section clearfix"  >
+
+        <div id="content" class="clearfix">
+            <div class="article-container" >
+                <div id="post-4" class="post-4 page type-page status-publish hentry">
+                        <h1 class="entry-title" style="font-weight: bold;">
+                            Admission:   		</h1>
+<!--                    </header>-->
+                    <div class="entry-content clearfix">
+                        <p  style="font-size: 20px">
+
+                          欢迎校内外的本学科或跨学科优秀保研推免生或优秀考研生加入VGG小组，尤其欢迎有志从事科学研究工作，有较强的科研能力、创新能力和团队合作意识以及英文阅读与写作能力， 或有计算机视觉以及图相关知识储备的优秀学生。你不一定需要有相关专业背景基础，只要你对我们的研究方向或科研项目有浓厚的兴趣就可联系四位老师。各位同学可在 教师页面了解各个老师详细情况。(崔振:zhen.cui@njust.edu.cn 许春燕:cyx@njust.edu.cn张桐:tong.zhang@njust.edu.cn 李勇:yong.li@njust.edu.cn)<br>由于招生名额有限，期待优秀学生早日提前加盟！</p>
+                    </div>
+                </div>
+            </div>
+            <!-- <div class="title-box clearfix" >
+            <h2 class="title-box_primary" style="font-size:35px;color:rgb(92,92,92)">Latest News</h2>
+            </div>
+
+                <div class="list styled custom-list" style="font-size: 20px">
+            <ul>
+              {% capture site_cats %}{% for cat in site.categories %}{{ cat | first }}{% unless forloop.last %},{% endunless %}{% endfor %}{% endcapture %}
+{% assign cats_list = site_cats | split:',' | sort %}
+
+
+
+{% for item in (0..1) %}{% unless forloop.last %}
+  {% capture this_word %}{{ cats_list[item] | strip_newlines }}{% endcapture %}
+
+    {% for post in site.categories[this_word] limit:5 %}{% if post.title != null %}
+      <li><a  href="{{ site.url }}{{ post.url }}" title="{{ post.title }}" style="font-size: 18px ;line-height: 30px;">{{ post.title }}<img src="https://daihu-ye.github.io/images/new.gif"></a></li>
+    {% endif %}{% endfor %}
+
+{% endunless %}{% endfor %}
+
+        <br>
+            <a href="http://daihu-ye.github.io/pages/News/" title="read more" class="btn-inline " target="_self">Read more...</a>
+    </div> -->
+</div>
+</div>
