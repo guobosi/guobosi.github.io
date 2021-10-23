@@ -48,7 +48,7 @@ author:
 # Add links to the sidebar.
 menu:
   - title:             Introduction
-    url:               /introduction/
+    url:               /Introduction/
   - title:             News
     url:               /news/
   - title:             Teachers
