@@ -1,0 +1,50 @@
+---
+layout: page
+title: Resources
+comments: false
+---
+
+{% capture site_tags %}{% for tag in site.tags %}{{ tag | first }}{% unless forloop.last %},{% endunless %}{% endfor %}{% endcapture %}
+{% assign tags_list = site_tags | split:',' | sort %}
+
+
+<div class="inner-wrap clearfix">
+
+    <div id="primary">
+        <div id="content" class="clearfix">
+                <div class="entry-content clearfix">
+
+                    <h4>Datasets</h4>
+                    <div style="width: 100%; height: 2px; border-top: 1px solid #999999; clear: both;"></div>
+                    <p><strong><a class="download-link" title="" href="https://daihu-ye.github.io/resources/dataset/CMPP_results.rar" rel="nofollow">
+                        Cross-Modal Pattern-Propagation for RGB-T Tracking-results
+                    </a></strong></p>
+
+
+
+                    <br></br>
+                    <h4>Codes</h4>
+                    <div style="width: 100%; height: 2px; border-top: 1px solid #999999; clear: both;"></div>
+                    <p><strong><a  href="https://github.com/ktr-hubrt/Codes_MPN" >
+                        Codes and test results for CVPR 21 : Learning Normal Dynamics in Videos with Meta Prototype Network
+                    </a></strong></p>
+
+
+                    <div style="width: 100%; height: 2px;"></div>
+                    <p><strong><a class="download-link" title="" href="https://daihu-ye.github.io/resources/dataset/SFT_OTB.rar" rel="nofollow">
+                        Codes for IEEE T-IP 19: Spectral Filter Tracking
+                    </a></strong></p>
+
+
+                    <div style="width: 100%; height: 2px; "></div>
+                    <p><strong><a  href="https://github.com/ktr-hubrt/WSAL" >
+                        Codes for T-IP 21: Localizing Anomalies From Weakly-Labeled Videos
+                    </a></strong></p>
+
+
+                    </div>
+
+        </div><!-- #content -->
+    </div><!-- #primary -->
+
+</div>
