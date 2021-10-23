@@ -1,0 +1,35 @@
+---
+layout: page
+title: publications
+comments: false
+---
+
+<div class="entry-content clearfix">
+    <h2><strong><em>Paper lists over years:</em></strong></h2>
+        <div class="layui-btn-container">
+            <button type="button" class="layui-btn layui-btn-radius" style="background-color: #A9A9A9"><a href="/publications/2021/" style="color: white" >2021</a></button>
+            <button type="button" class="layui-btn layui-btn-radius" style="background-color: #A9A9A9"><a href="/publications/2020/" style="color: white" >2020</a></button>
+            <button type="button" class="layui-btn layui-btn-radius"  style="background-color: #AFAFAF"><a href="/publications/2019/" style="color: white">2019</a></button>
+            <button type="button" class="layui-btn layui-btn-radius" style="background-color: #B5B5B5"><a href="/publications/2018/" style="color: white">2018</a></button>
+            <button type="button" class="layui-btn layui-btn-radius" style="background-color: #BBBBBB"><a href="/publications/2017/" style="color: white">2017</a></button>
+            <button type="button" class="layui-btn layui-btn-radius" style="background-color: #C1C1C1"><a href="/publications/2016/" style="color: white">2016</a></button>
+            <button type="button" class="layui-btn layui-btn-radius" style="background-color: #C6C6C6"><a href="/publications/before2015/" style="color: white">before 2015</a></button>
+        </div>
+
+    <h2><strong>Lateset publications:</strong></h2>
+
+       {% capture site_cats %}{% for cat in site.categories %}{{ cat | first }}{% unless forloop.last %},{% endunless %}{% endfor %}{% endcapture %}
+{% assign cats_list = site_cats | split:',' | sort %}
+
+
+
+{% for item in (0..1) %}{% unless forloop.last %}
+  {% capture this_word %}{{ cats_list[item] | strip_newlines }}{% endcapture %}
+
+    {% for post in site.categories[this_word] limit:10 %}{% if post.author != null %}
+    <p>- {{ post.author }} {{ post.paper_title }} {{ post.paper }} <p>
+    {% endif %}{% endfor %}
+
+{% endunless %}{% endfor %}
+
+</div>
