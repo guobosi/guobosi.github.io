@@ -42,7 +42,6 @@ node_modules
 package*.json
 .sass-cache
 .jekyll-metadata
-.jekyll-cache
 *.gem
 _zip
 /stats.json
