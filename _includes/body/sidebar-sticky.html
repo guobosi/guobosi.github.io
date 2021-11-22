@@ -1,6 +1,6 @@
 
 
-<div style="max-width: 50rem;" class="sidebar-sticky">
+<div style="max-width: 55rem;" class="sidebar-sticky">
   <div  class="sidebar-about">
     {% if site.logo %}
       <a class="no-hover" href="{{ '/' | relative_url }}" tabindex="-1">
@@ -8,9 +8,8 @@
       </a>
     {% endif %}  
 <div >
-     <h1 class="entry-title" style="font-weight: bold;">
-             Introduction:   		</h1>
-             <p  style="font-size: 20px">
+      <a class="sidebar-title" href="{{ '/' | relative_url }}"><h2 class="h1">{{ site.short_title | default:site.title }}</h2></a>
+  <p  style="font-size: 20px">
 
                               Vision and Graph Group (VGG) is affiliated with the PCA Lab, School of Computer Science and Engineering, Nanjing University of Science and Technology.<br>
                               The VGG’s study covers Computer Vision (CV) and Artificial Intelligence (AI). Specifically, the study group focuses on graph learning (graph neural network), vision perception & computation (segmentation/detection/tracking), face analysis (emotion), etc. In addition, VGG also pays attention to many applications such as anomaly detection, intelligent agent, etc.
@@ -21,7 +20,7 @@
     
  
     
-    <a class="sidebar-title" href="{{ '/' | relative_url }}"><h2 class="h1">{{ site.short_title | default:site.title }}</h2></a>
+
     {% assign text = site.tagline | default:site.description %}
     {% if text %}
       <p class="{% if text.size > 100 %}fine{% endif %}">
