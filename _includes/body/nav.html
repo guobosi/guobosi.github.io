@@ -25,7 +25,7 @@
           <a
             {% if forloop.first %}id="_navigation"{% endif %}
             href="{{ node.url | relative_url }}"
-            class="sidebar-nav-item"
+            class="sidebar-nav-item" style="color:black"
             {% if node.rel %}rel="{{ node.rel }}"{% endif %}
             >
             {{ node.title }}
