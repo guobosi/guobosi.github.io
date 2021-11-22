@@ -4,7 +4,7 @@
     {% for node in site.menu %}
       {% assign url = node.url | default: node.href %}
       <li>
-        <a
+        <a style="color:black"
           {% if forloop.first %}id="_drawer--opened"{% endif %}
           href="{% include_cached smart-url url=url %}"
           class="sidebar-nav-item {% if node.external  %}external{% endif %}"
