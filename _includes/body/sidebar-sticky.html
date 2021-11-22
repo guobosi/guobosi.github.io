@@ -1,4 +1,8 @@
-{% if site.logo %}
+
+
+<div style="max-width: 50rem;" class="sidebar-sticky">
+  <div  class="sidebar-about">
+    {% if site.logo %}
       <a class="no-hover" href="{{ '/' | relative_url }}" tabindex="-1">
         <img src="{% include_cached smart-url url=site.logo %}" class="avatar" alt="{{ site.short_title | default:site.title }}" width="120" height="120" loading="lazy" />
       </a>
@@ -14,10 +18,6 @@
                               Currently, the group contains more than 30 members totally, four full-time teachers among them.
                               Please see the internal website for more details.</p>
  </div>
-
-<div  class="sidebar-sticky">
-  <div  class="sidebar-about">
-    
     
  
     
