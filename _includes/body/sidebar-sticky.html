@@ -1,13 +1,10 @@
-<div style="width: 300%" class="sidebar-sticky">
-  <div  class="sidebar-about">
-    {% if site.logo %}
+{% if site.logo %}
       <a class="no-hover" href="{{ '/' | relative_url }}" tabindex="-1">
         <img src="{% include_cached smart-url url=site.logo %}" class="avatar" alt="{{ site.short_title | default:site.title }}" width="120" height="120" loading="lazy" />
       </a>
-    {% endif %}
-    
-    <div >
-          <h1 class="entry-title" style="font-weight: bold;">
+    {% endif %}  
+<div >
+     <h1 class="entry-title" style="font-weight: bold;">
              Introduction:   		</h1>
              <p  style="font-size: 20px">
 
@@ -16,7 +13,13 @@
                               The study group aims to develop/create novel intelligent theories/methods to solve some key problems in CV & AI.<br>
                               Currently, the group contains more than 30 members totally, four full-time teachers among them.
                               Please see the internal website for more details.</p>
-                   </div>
+ </div>
+
+<div  class="sidebar-sticky">
+  <div  class="sidebar-about">
+    
+    
+ 
     
     <a class="sidebar-title" href="{{ '/' | relative_url }}"><h2 class="h1">{{ site.short_title | default:site.title }}</h2></a>
     {% assign text = site.tagline | default:site.description %}
