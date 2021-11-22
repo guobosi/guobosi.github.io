@@ -41,8 +41,8 @@
 {% endif %}
 
 {% if related_posts.size > 0 %}
-<aside class="related mb4" role="complementary">
-  <h2 class="hr-bottom">{{ site.data.strings.related_posts | default:"Related Posts" }}</h2>
+<aside class="related mb4" role="complementary" style=" position: relative; bottom: 100px;">
+  <h2 class="hr-bottom">{{ site.data.strings.related_posts | default:"Latest News" }}</h2>
 
   <ul class="related-posts">
     {% for post in related_posts limit:3 %}
@@ -67,7 +67,7 @@
     {% endif %}
   </div>
 
-  <navstyle=" position: relative; bottom: 80px" class="sidebar-nav heading" role="navigation">
+  <navstyle=" position: relative; bottom: 100px" class="sidebar-nav heading" role="navigation">
     {% include body/nav.html %}
   </nav>
 
