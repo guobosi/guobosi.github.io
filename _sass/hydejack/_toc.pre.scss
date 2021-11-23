@@ -59,7 +59,7 @@ body:not(.no-toc) #markdown-toc {
 // <<< inline
 body.no-break-layout:not(.no-toc) #markdown-toc {
   @media screen and (min-width: $break-point-dynamic) {
-    width: calc(100% - #{$half-content});
+    width: calc(50% - #{$half-content});
   }
 }
 // >>>
