@@ -1,5 +1,5 @@
 <span class="sr-only">{{ site.data.strings.navigation | default:"Navigation" }}{{ site.data.strings.colon | default:":" }}</span>
-<ul style="position: relative;top: 15px;left:35px;color:black;">
+<ul style="position: relative;top: 15px;right:35px;color:black;max-width:25rem;">
   {% if site.menu %}
     {% for node in site.menu %}
       {% assign url = node.url | default: node.href %}
