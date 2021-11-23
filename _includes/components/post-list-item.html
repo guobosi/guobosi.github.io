@@ -2,6 +2,6 @@
 {% assign format = include.format | default:site.data.strings.date_formats.related_post | default:"%d %b %Y" %}
 
 <li class="h4" >
-  <a style="color:black" href="{{ post.url | relative_url }}" class="flip-title"><span >{{ post.title }}</span></a>
+  <a style="color:black" href="{{ post.url | relative_url }}" class="flip-title">{{ post.title }}</a>
   <time class="faded fine" datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date:format }}</time>
 </li>
