@@ -1,0 +1,98 @@
+
+<div>
+<a style=" position:fixed;left:5px;top:5px;bottom: 200px;"class="sidebar-title" href="{{ '/' | relative_url }}"><h2 style="color:black;" class="h1">{{ site.short_title | default:site.title }}</h2></a>
+<p  style="font-size: 17px;text-align:left;position:fixed;left:5px;top:130px; bottom: 80px;color:black;-space:normal; width:650px;">
+
+                            Vision and Graph Group (VGG) is affiliated with the PCA
+                            Lab, School of Computer Science and Engineering, Nanjing
+                            University of Science and Technology.<br>
+                            The VGG’s study covers Computer Vision (CV) and Artificial
+                            Intelligence (AI). Specifically, the study group focuses on
+                            graph learning (graph neural network), vision perception &
+                            computation (segmentation/detection/tracking), face analysis
+                            (emotion), etc. In addition, VGG also pays attention to many
+                            applications such as anomaly detection, intelligent agent, etc.
+                            The study group aims to develop/create novel intelligent
+                            stheories/methods to solve some key problems in CV & AI.<br>
+                            Currently, the group contains more than 30 members totally,
+                            four full-time teachers among them.Please see the internal
+                            website for more details.</p>
+</div>
+
+
+
+{% assign post = page %}
+{% if page.related_posts %}
+  {% if major >= 4 and minor >= 1 %}
+    {% assign related_posts = site.posts | where_exp:"post", "page.related_posts contains post.path or page.related_posts contains post.url" %}
+  {% else %}
+    {% assign related_posts_1 = site.posts | where_exp:"post", "page.related_posts contains post.path" %}
+    {% assign related_posts_2 = site.posts | where_exp:"post", "page.related_posts contains post.url" %}
+    {% assign related_posts = related_posts_1 | concat:related_posts_2 %}
+  {% endif %}
+{% elsif site.hydejack.use_lsi or site.use_lsi %}
+  {% assign related_posts = site.related_posts %}
+{% elsif post.categories.first %}
+  {% assign related_posts = site.categories[post.categories.first] | where_exp:"post", "post.url != page.url" %}
+{% elsif post.tags.first %}
+  {% assign related_posts = site.tags[post.tags.first] | where_exp:"post", "post.url != page.url" %}
+{% else %}
+  {% assign related_posts = site.related_posts %}
+{% endif %}
+
+{% if related_posts.size > 0 %}
+<aside class="related mb4" role="complementary" style=" position:fixed;left:5px;top:420px; bottom: 115px;text-align:left;white-space:normal; width:650px;color:black">
+  <h2 style="border-bottom: aliceblue;color:black;"class="hr-bottom">Latest News</h2>
+  <ul class="related-posts" style="color:black" >
+    {% for post in related_posts limit:3 %}
+      {% if post %}
+        {% include_cached components/post-list-item.html post=post %}
+      {% else %}
+        <li>Post with path <code>{{ post_path }}</code> not found.</li>
+      {% endif %}
+    {% endfor %}
+  </ul>
+</aside>
+{% endif %}
+
+<div>
+<a style=" position:fixed;left:5px;top:643px;bottom: 200px;"class="sidebar-title" href="{{ '/' | relative_url }}"><h2 style="color:black;" class="h1">招生宣传:</h2></a>
+<p  style="font-size: 17px;text-align:left;position:fixed;left:5px;top:760px; bottom: 80px;color:black;white-space:normal; width:650px;">
+           欢迎校内外的本学科或跨学科优秀保研推免生或优秀考研生加入VGG小组!<a href="/admisson/" style="color:red">详情点击>>></a></p>
+                            </p>
+</div>
+
+
+
+
+
+
+
+
+<div class="sidebar-sticky">
+  <div class="sidebar-about">
+
+
+    {% if site.logo %}
+      <a class="no-hover" href="{{ '/' | relative_url }}" tabindex="-1">
+        <img src="{% include_cached smart-url url=site.logo %}" class="avatar" alt="{{ site.short_title | default:site.title }}" width="120" height="120" loading="lazy" />
+      </a>
+    {% endif %}
+    <a class="sidebar-title" href="{{ '/' | relative_url }}"><h2 class="h1">{{ site.short_title | default:site.title }}</h2></a>
+    {% assign text = site.tagline | default:site.description %}
+    {% if text %}
+      <p class="{% if text.size > 100 %}fine{% endif %}">
+        {{ text | markdownify | replace:'<p>','' | replace:'</p>','' }}
+      </p>
+    {% endif %}
+  </div>
+
+  <nav class="sidebar-nav heading" role="navigation">
+    {% include body/nav.html %}
+  </nav>
+
+  {% assign author = site.data.authors.first[1] | default:site.author %}
+  <div class="sidebar-social">
+    {% include components/social.html author=author %}
+  </div>
+</div>
