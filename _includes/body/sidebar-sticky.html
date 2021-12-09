@@ -1,4 +1,4 @@
-
+<!--
 <div>
 <a style=" position:fixed;left:5px;top:5px;bottom: 200px;"class="sidebar-title" href="{{ '/' | relative_url }}"><h2 style="color:black;" class="h1">{{ site.short_title | default:site.title }}</h2></a>
 <p  style="font-size: 17px;text-align:left;position:fixed;left:5px;top:130px; bottom: 80px;color:black;-space:normal; width:650px;">
@@ -17,6 +17,12 @@
                             Currently, the group contains more than 30 members totally,
                             four full-time teachers among them.Please see the internal
                             website for more details.</p>
+</div> -->
+<div>
+<a style=" position:fixed;left:5px;top:320px;bottom: 200px;border-bottom:0px;opacity: 0.8;"class="sidebar-title" href="{{ '/' | relative_url }}"><h2 style="color:black;border-bottom:0px" class="hr-bottom">招生宣传:</h2></a>
+<p  style="font-size: 17px;text-align:left;position:fixed;left:5px;top:450px; bottom: 80px;color:black;white-space:normal; width:650px;opacity: 0.8">
+           欢迎校内外的本学科或跨学科优秀保研推免生或优秀考研生加入VGG小组!<a href="/admisson/" style="color:red;opacity: 0.8">详情点击>>></a></p>
+                            </p>
 </div>
 
 
@@ -41,9 +47,9 @@
 {% endif %}
 
 {% if related_posts.size > 0 %}
-<aside class="related mb4" role="complementary" style=" position:fixed;left:5px;top:390px; bottom: 115px;text-align:left;white-space:normal; width:650px;color:black">
-  <h2 style="border-bottom: aliceblue;color:black;"class="hr-bottom">Latest News</h2>
-  <ul class="related-posts" style="color:black" >
+<aside class="related mb4" role="complementary" style=" position:fixed;left:5px;top:460px; bottom: 115px;text-align:left;white-space:normal; width:650px;color:black;opacity: 0.8">
+  <h2 style="border-bottom: aliceblue;color:black;opacity: 0.8"class="hr-bottom">Congratulations:</h2>
+  <ul class="related-posts" style="color:black;opacity: 0.8" >
     {% for post in related_posts limit:3 %}
       {% if post %}
         {% include_cached components/post-list-item.html post=post %}
@@ -55,12 +61,6 @@
 </aside>
 {% endif %}
 
-<div>
-<a style=" position:fixed;left:5px;top:643px;bottom: 200px;"class="sidebar-title" href="{{ '/' | relative_url }}"><h2 style="color:black;" class="h1">招生宣传:</h2></a>
-<p  style="font-size: 17px;text-align:left;position:fixed;left:5px;top:760px; bottom: 80px;color:black;white-space:normal; width:650px;">
-           欢迎校内外的本学科或跨学科优秀保研推免生或优秀考研生加入VGG小组!<a href="/admisson/" style="color:red">详情点击>>></a></p>
-                            </p>
-</div>
 
 
 
