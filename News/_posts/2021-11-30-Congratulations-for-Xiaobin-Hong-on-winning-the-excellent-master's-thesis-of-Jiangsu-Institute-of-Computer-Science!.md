@@ -1,14 +1,22 @@
 ---
 layout: post
-title: Congratulations for best paper of TAC!
-description: "best paper of TAC."
-tags: [Zhen Cui]
-websites: [Teacher/CuiZhen]
-author: Tengfei Song, Wenming Zheng, Peng Song, Zhen Cui.
-paper_title:  EEG emotion recognition using dynamical graph convolutional neural networks.
-paper: IEEE Transactions on Affective Computing(TAC) 18.
+title: Congratulations for Xiaobin Hong on winning the excellent master's thesis of Jiangsu Institute of Computer Science!
+image:
+accent_image:
+  background: url('/assets/img/blog/yuanshi.jpg') center/cover
+  overlay: false
+accent_color: '#ccc'
+theme_color: '#ccc'
+invert_sidebar: true
+description: "recent paper."
+tags: [Xiaobin Hong]
+websites: [Student/Master/Hongxiaobin]
+author: Xiaobin Hong
+paper_title: 深度地图嵌入学习研究.
+paper:
 categories: [Congratulations]
 ---
-祝贺论文获IEEE Transactions on Affective Computing期刊最佳论文。
 
-论文题目: Tengfei Song, Wenming Zheng, Peng Song, Zhen Cui. EEG emotion recognition using dynamical graph convolutional neural networks. IEEE Transactions on Affective Computing(TAC) 18.
+祝贺洪晓斌获江苏省计算机学会优秀硕士论文。
+
+论文题目: 深度图嵌入学习研究。
