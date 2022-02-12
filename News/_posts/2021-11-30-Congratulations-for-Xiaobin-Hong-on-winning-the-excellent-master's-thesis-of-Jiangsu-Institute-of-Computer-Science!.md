@@ -12,7 +12,7 @@ description: "recent paper."
 tags: [Xiaobin Hong]
 websites: [Student/Master/Hongxiaobin]
 author: Xiaobin Hong
-paper_title: 深度地图嵌入学习研究.
+paper_title: 深度图嵌入学习研究.
 paper:
 categories: [Congratulations]
 ---
