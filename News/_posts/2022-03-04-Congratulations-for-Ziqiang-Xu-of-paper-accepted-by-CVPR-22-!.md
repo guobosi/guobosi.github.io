@@ -1,19 +1,22 @@
 ---
 layout: post
-title: "Congratulations for Ziqiang Xu of paper accepted by CVPR 22!"
+title: Congratulations for Yun Wang of paper accepted by ICCV 21!
 image:
 accent_image:
-  background: url('/assets/img/blog/yuanshi.jpg') center/cover
+  background: url('/assets/img/blog/jj-ying.jpg') center/cover
   overlay: false
 accent_color: '#ccc'
 theme_color: '#ccc'
 invert_sidebar: true
 description: "recent paper."
-author:Ziqiang Xu, Chunyan Xu, Zhen Cui, Xiangwei Zheng, and Jian Yang.
-paper_title: CVNet: Contour Vibration Network for Building Extraction.
-paper: IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 22.
+tags: [Yun Wang,Tong Zhang,Zhen Cui]
+websites: [Student/Master/WangYun,Teacher/ZhangTong,Teacher/CuiZhen]
+author: Yun Wang, Tong Zhang, Xueya Zhang, Zhen Cui, Yuge Huang, Pengcheng Shen, Shaoxin Li, and Jian Yang.
+paper_title: Wasserstein Coupled Graph Learning for Cross-Modal Retrieval.
+paper: International Conference on Computer Vision(ICCV) 21.
 categories: [Congratulations]
 ---
-祝贺徐自强的论文被CVPR 22收录。
 
-论文题目: Ziqiang Xu, Chunyan Xu, Zhen Cui, Xiangwei Zheng, and Jian Yang. CVNet: Contour Vibration Network for Building Extraction, IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2022.
+祝贺王贇的论文被ICCV收录。
+
+论文题目: Yun Wang, Tong Zhang, Xueya Zhang, Zhen Cui, Yuge Huang, Pengcheng Shen, Shaoxin Li, and Jian Yang. Wasserstein Coupled Graph Learning for Cross-Modal Retrieval. International Conference on Computer Vision(ICCV) 2021.
