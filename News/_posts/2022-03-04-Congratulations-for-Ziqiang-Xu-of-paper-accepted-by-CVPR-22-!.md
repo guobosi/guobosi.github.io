@@ -11,12 +11,12 @@ invert_sidebar: true
 description: "recent paper."
 tags: [Ziqiang Xu,Chunyan Xu,Zhen Cui]
 websites: [Student/Master/XuZiqiang,Teacher/XuChunyan,Teacher/CuiZhen]
-author: Yun Wang, Tong Zhang, Xueya Zhang, Zhen Cui, Yuge Huang, Pengcheng Shen, Shaoxin Li, and Jian Yang.
-paper_title: Wasserstein Coupled Graph Learning for Cross-Modal Retrieval.
-paper: International Conference on Computer Vision(ICCV) 21.
+author: Ziqiang Xu, Chunyan Xu, Zhen Cui, Xiangwei Zheng, and Jian Yang.
+paper_title: CVNet: Contour Vibration Network for Building Extraction.
+paper: IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 22.
 categories: [Congratulations]
 ---
 
-祝贺王贇的论文被ICCV收录。
+祝贺徐自强的论文被CVPR 22收录。
 
-论文题目: Yun Wang, Tong Zhang, Xueya Zhang, Zhen Cui, Yuge Huang, Pengcheng Shen, Shaoxin Li, and Jian Yang. Wasserstein Coupled Graph Learning for Cross-Modal Retrieval. International Conference on Computer Vision(ICCV) 2021.
+论文题目: Ziqiang Xu, Chunyan Xu, Zhen Cui, Xiangwei Zheng, and Jian Yang. CVNet: Contour Vibration Network for Building Extraction, IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2022.
