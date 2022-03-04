@@ -9,8 +9,8 @@ accent_color: '#ccc'
 theme_color: '#ccc'
 invert_sidebar: true
 description: "recent paper."
-tags: [Yun Wang,Tong Zhang,Zhen Cui]
-websites: [Student/Master/WangYun,Teacher/ZhangTong,Teacher/CuiZhen]
+tags: [Ziqiang Xu,Chunyan Xu,Zhen Cui]
+websites: [Student/Master/XuZiqiang,Teacher/XuChunyan,Teacher/CuiZhen]
 author: Yun Wang, Tong Zhang, Xueya Zhang, Zhen Cui, Yuge Huang, Pengcheng Shen, Shaoxin Li, and Jian Yang.
 paper_title: Wasserstein Coupled Graph Learning for Cross-Modal Retrieval.
 paper: International Conference on Computer Vision(ICCV) 21.
