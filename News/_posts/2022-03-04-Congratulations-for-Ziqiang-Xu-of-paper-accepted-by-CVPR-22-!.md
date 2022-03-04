@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Congratulations for Yun Wang of paper accepted by ICCV 21!
+title: Congratulations for Ziqiang Xu of paper accepted by CVPR 22!
 image:
 accent_image:
   background: url('/assets/img/blog/jj-ying.jpg') center/cover
