@@ -12,7 +12,7 @@ description: "recent paper."
 tags: [Ziqiang Xu,Chunyan Xu,Zhen Cui]
 websites: [Student/Master/XuZiqiang,Teacher/XuChunyan,Teacher/CuiZhen]
 author: Ziqiang Xu, Chunyan Xu, Zhen Cui, Xiangwei Zheng, and Jian Yang.
-paper_title: Wasserstein Coupled Graph Learning for Cross-Modal Retrieval.
+paper_title: CVNet: Contour Vibration Network for Building Extraction.
 paper: International Conference on Computer Vision(ICCV) 21.
 categories: [Congratulations]
 ---
