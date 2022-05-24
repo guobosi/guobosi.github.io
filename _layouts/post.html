@@ -22,18 +22,7 @@ layout: base
 {% assign minor = version[1] | plus:0 %}
 {% assign patch = version[2] | plus:0 %}
 
-{% include_cached components/post.html post=page no_link_title=true no_excerpt=true hide_image=page.hide_image hide_description=page.hide_description %}
-
-
-
-{% assign addons = page.addons | default:site.hydejack.post_addons %}
-{% unless addons %}{% assign addons = "about,newsletter,related,random" | split:"," %}{% endunless %}
-
-<footer class="entry-meta">
-        <span class="entry-tags">{% for index in (0..page.tags.size) %}{%if index<>page.tags.size%}<a href="{{ site.url }}/{{ page.websites[index] }}"  class="tag"><span class="term">{{ page.tags[index] }}</span></a>{% unless forloop.last %}{% endunless %} {% endif %} {% endfor %}</span>
-        {% if page.modified %}<span>Updated on <span class="entry-date date updated"><time datetime="{{ page.modified }}">{{ page.modified | date: "%B %d, %Y" }}</time></span></span>
-        {% endif %}
-        <span class="author vcard"><span class="fn">{{ site.owner.name }}</span></span>
+{% include_cached components/post.html post=page no_link_title=true no_excerpt=true hide_image=page.hide_image hide_description=page.hide_description %
 
 {% for addon in addons %}
   {% case addon %}
