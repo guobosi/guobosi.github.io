@@ -10,7 +10,7 @@ theme_color: '#ccc'
 invert_sidebar: true
 description: "recent paper."
 tags: [Yong Li,Lingjie Lao,Zhen Cui]
-websites: [Teacher/LiYong,Student/Master/LaoLingjie,Teacher/CuiZhen]
+websites: [teachers/LiYong,Student/Master/LaoLingjie,Teacher/CuiZhen]
 author: Yong Li, Lingjie Lao, Zhen Cui, Shiguang Shan, Jian Yang.
 paper_title: Graph Jigsaw Learning for Cartoon Face Recognition.
 paper: IEEE Transactions on Image Processing (T-IP) 22.
