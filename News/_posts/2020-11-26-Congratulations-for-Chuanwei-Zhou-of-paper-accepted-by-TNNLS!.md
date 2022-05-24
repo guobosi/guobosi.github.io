@@ -10,7 +10,7 @@ theme_color: '#ccc'
 invert_sidebar: true
 description: "recent paper."
 tags: [Chuanwei Zhou,Chunyan Xu,Zhen Cui,Tong Zhang]
-websites: [Student/PHD/ZhouChuanwei,Teacher/XuChunyan,Teacher/CuiZhen,Teacher/ZhangTong]
+websites: [students/ZhouChuanwei,teachers/XuChunyan,teachers/CuiZhen,teachers/ZhangTong]
 author: Chuanwei Zhou, Chunyan Xu*, Zhen Cui, Tong Zhang, Jian Yang*.
 paper_title: Self-Teaching Video Object Segmentation.
 paper: IEEE Transactions on Neural Networks and learning systems(TNNLS) 2021.

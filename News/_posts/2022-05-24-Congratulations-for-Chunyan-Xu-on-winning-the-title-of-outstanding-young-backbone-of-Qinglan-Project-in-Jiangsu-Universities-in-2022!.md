@@ -10,7 +10,7 @@ theme_color: '#ccc'
 invert_sidebar: true
 description: "outstanding young backbone of Qinglan Project in Jiangsu Universities."
 tags: [Chunyan Xu]
-websites: [Teacher/XuChunyan]
+websites: [teachers/XuChunyan]
 author: 
 paper_title: 
 paper: 

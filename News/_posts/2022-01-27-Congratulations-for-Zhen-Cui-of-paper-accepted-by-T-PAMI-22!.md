@@ -10,7 +10,7 @@ theme_color: '#ccc'
 invert_sidebar: true
 description: "recent paper."
 tags: [Zhen Cui,Chunyan Xu]
-websites: [Teacher/CuiZhen,Teacher/XuChunyan]
+websites: [teachers/CuiZhen,teachers/XuChunyan]
 author: Zhen Cui, Ling Zhou, Chaoqun Wang, Chunyan Xu, and Jian Yang.
 paper_title: Visual Micro-Pattern Propagation.
 paper: IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI) 22.

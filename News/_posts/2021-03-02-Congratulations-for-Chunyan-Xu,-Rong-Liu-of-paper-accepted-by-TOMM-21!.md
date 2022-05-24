@@ -10,7 +10,7 @@ theme_color: '#ccc'
 invert_sidebar: true
 description: "recent paper."
 tags: [Chunyan Xu, Rong Liu,Tong Zhang,Zhen Cui]
-websites: [Teacher/XuChunyan,Student,Teacher/ZhangTong,Teacher/CuiZhen]
+websites: [teachers/XuChunyan,Student,teachers/ZhangTong,teachers/CuiZhen]
 author: Chunyan Xu, Rong Liu, Tong Zhang, Zhen Cui, Jian Yang, and ChunLong Hu.
 paper_title: Dual-Stream Structured Graph Convolution Network for Skeleton-based Action Recognition.
 paper: ACM Transactions on Multimedia Computing Communications and Applications (TOMM) 2021.

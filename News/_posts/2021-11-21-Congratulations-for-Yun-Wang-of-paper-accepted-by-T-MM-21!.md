@@ -3,7 +3,7 @@ layout: post
 title: Congratulations for Yun Wang of paper accepted by T-MM 21!
 description: "recent paper."
 tags: [Yun Wang,Tong Zhang,Chuanwei Zhou,Zhen Cui]
-websites: [Student/Master/WangYun,Teacher/ZhangTong,Student/PHD/ZhouChuanwei,Teacher/CuiZhen]
+websites: [students/WangYun,teachers/ZhangTong,students/ZhouChuanwei,teachers/CuiZhen]
 author: Yun Wang, Tong Zhang, Chuanwei Zhou, Zhen Cui, and Jian Yang.
 paper_title:  Instance-Aware Deep Graph Learning for Multi-Label Classification.
 paper: IEEE Transactions on Multimedia (T-MM) 2021.

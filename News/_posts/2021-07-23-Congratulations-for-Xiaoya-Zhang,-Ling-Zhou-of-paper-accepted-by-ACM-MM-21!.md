@@ -10,7 +10,7 @@ theme_color: '#ccc'
 invert_sidebar: true
 description: "recent paper."
 tags: [Yong Li,Zhen Cui]
-websites: [Teacher/LiYong,Teacher/CuiZhen]
+websites: [teachers/LiYong,teachers/CuiZhen]
 author: Xiaoya Zhang, Ling Zhou, Yong Li, Zhen Cui, Jin Xie, and Jian Yang.
 paper_title: Transfer Vision Patterns for Multi-Task Pixel Learning.
 paper: ACM International Conference on Multimedia(ACM MM) 21.

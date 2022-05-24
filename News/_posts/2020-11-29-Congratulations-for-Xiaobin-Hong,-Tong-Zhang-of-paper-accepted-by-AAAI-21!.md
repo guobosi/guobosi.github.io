@@ -10,7 +10,7 @@ theme_color: '#ccc'
 invert_sidebar: true
 description: "recent paper."
 tags: [Xiaobin Hong,Tong Zhang,Zhen Cui]
-websites: [Student/Master/HongXiaobin,Teacher/ZhangTong,Teacher/CuiZhen]
+websites: [students/HongXiaobin,teachers/ZhangTong,teachers/CuiZhen]
 author: Xiaobin Hong, Tong Zhang, Zhen Cui, Yuge Huang, Pengcheng Shen, Shaoxin Li, Jian Yang.
 paper_title: Graph Game Embedding.
 paper: AAAI Conference on Artificial Intelligence(AAAI) 2021.

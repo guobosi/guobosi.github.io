@@ -10,7 +10,7 @@ theme_color: '#ccc'
 invert_sidebar: true
 description: "recent paper."
 tags: [Ziqiang Xu,Chunyan Xu,Zhen Cui]
-websites: [Student/Master/XuZiqiang,Teacher/XuChunyan,Teacher/CuiZhen]
+websites: [students/XuZiqiang,teachers/XuChunyan,teachers/CuiZhen]
 author: Ziqiang Xu, Chunyan Xu, Zhen Cui, Xiangwei Zheng, and Jian Yang.
 paper_title: CVNet:Contour Vibration Network for Building Extraction.
 paper: IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 22.

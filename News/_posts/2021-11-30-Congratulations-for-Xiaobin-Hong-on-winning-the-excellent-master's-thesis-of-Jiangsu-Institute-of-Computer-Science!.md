@@ -10,7 +10,7 @@ theme_color: '#ccc'
 invert_sidebar: true
 description: "recent paper."
 tags: [Xiaobin Hong]
-websites: [Student/Master/Hongxiaobin]
+websites: [students/Hongxiaobin]
 author: Xiaobin Hong
 paper_title: 深度图嵌入学习研究.
 paper:

@@ -3,7 +3,7 @@ layout: post
 title: Congratulations for best paper of TAC!
 description: "best paper of TAC."
 tags: [Zhen Cui]
-websites: [Teacher/CuiZhen]
+websites: [teachers/CuiZhen]
 author: Tengfei Song, Wenming Zheng, Peng Song, Zhen Cui.
 paper_title:  EEG emotion recognition using dynamical graph convolutional neural networks.
 paper: IEEE Transactions on Affective Computing(TAC) 18.

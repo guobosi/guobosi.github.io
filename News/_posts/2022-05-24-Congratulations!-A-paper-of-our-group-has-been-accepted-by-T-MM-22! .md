@@ -10,7 +10,7 @@ theme_color: '#ccc'
 invert_sidebar: true
 description: "recent paper."
 tags: [Zhen Cui]
-websites: [Teacher/CuiZhen]
+websites: [teachers/CuiZhen]
 author: Xin Liu, Jinhan Yi, Yiuming Cheuug, Xing Xu, Zhen Cui.
 paper_title: OMGH:Online Manifold-Guided Hashing for Flexible Cross-modal Retrieval
 paper: IEEE Transactions on Multimedia (T-MM) 22.

@@ -10,7 +10,7 @@ theme_color: '#ccc'
 invert_sidebar: true
 description: "recent paper."
 tags: [Shumin Zhang,Zhen Cui]
-websites: [Student/Master/ZhangShumin,Teacher/CuiZhen]
+websites: [students/ZhangShumin,teachers/CuiZhen]
 author: Xiaoya Zhang, Shumin Zhang, Zhen Cui, Zechao Li, Jin Xie, and Jian Yang.
 paper_title: Tube-embedded Transformer for Pixel Prediction.
 paper: IEEE Transactions on Multimedia (T-MM) 22.

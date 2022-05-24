@@ -10,7 +10,7 @@ theme_color: '#ccc'
 invert_sidebar: true
 description: "recent paper."
 tags: [Hui Lv,Zhen Cui]
-websites: [Student/PHD/LvHui,Teacher/CuiZhen]
+websites: [students/LvHui,teachers/CuiZhen]
 author: Lv Hui, Zhou Chunwei, Cui Zhen, et al.
 paper_title: Localizing anomalies from weakly-labeled videos.
 paper: IEEE Transactions on Image Processing(T-IP) 2021.

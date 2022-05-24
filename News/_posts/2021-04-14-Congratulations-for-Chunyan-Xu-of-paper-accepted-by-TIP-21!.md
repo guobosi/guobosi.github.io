@@ -10,7 +10,7 @@ theme_color: '#ccc'
 invert_sidebar: true
 description: "recent paper."
 tags: [Chunyan Xu,Zhen Cui]
-websites: [Teacher/Xuchunyan,Teacher/CuiZhen]
+websites: [teachers/Xuchunyan,teachers/CuiZhen]
 author: Chunyan Xu, Li Wei, Zhen Cui*, Tong Zhang, Jian Yang.
 paper_title: Meta-VOS:Learning to Adapt Online Target-Specific Segmentation.
 paper: IEEE Transactions on Image Processing(T-IP) 2021.

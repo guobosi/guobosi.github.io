@@ -10,7 +10,7 @@ theme_color: '#ccc'
 invert_sidebar: true
 description: "recent paper."
 tags: [Wenting Zhao,Zhen Cui,Tong Zhang]
-websites: [Student/PHD/ZhaoWenting,Teacher/CuiZhen,Teacher/ZhangTong]
+websites: [students/ZhaoWenting,teachers/CuiZhen,teachers/ZhangTong]
 author: Wenting Zhao， Yuan Fang， Zhen Cui*，Tong Zhang and Jian Yang.
 paper_title: Graph Deformer Network.
 paper: International Joint Conference on Artificial Intelligence(IJCAI) 2021.

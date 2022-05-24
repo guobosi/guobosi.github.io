@@ -10,7 +10,7 @@ theme_color: '#ccc'
 invert_sidebar: true
 description: "recent paper."
 tags: [Yun Wang,Tong Zhang,Zhen Cui]
-websites: [Student/Master/WangYun,Teacher/ZhangTong,Teacher/CuiZhen]
+websites: [students/WangYun,teachers/ZhangTong,teachers/CuiZhen]
 author: Tong Zhang, Yun Wang, Zhen Cui, Chunawei Zhou, Baoliang Cui, Haikuan Huang, Jian Yang.
 paper_title: Deep Wasserstein Graph Discriminant Learning for Graph Classification.
 paper: AAAI Conference on Artificial Intelligence(AAAI) 2021.
