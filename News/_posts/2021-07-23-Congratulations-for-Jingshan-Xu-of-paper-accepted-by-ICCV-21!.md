@@ -10,7 +10,7 @@ theme_color: '#ccc'
 invert_sidebar: true
 description: "recent paper."
 tags: [Jingshan Xu,Zhen Cui,Chunyan Xu]
-websites: [students/XuJingshan,teachers/CuiZhen,teachers/Xuchunyan]
+websites: [students/XuJingshan,teachers/CuiZhen,teachers/XuChunyan]
 author: Jingshan Xu, Chuanwei Zhou, Zhen Cui, Chunyan Xu, Yuge Huang, Pengcheng Shen, Shaoxin Li, and Jian Yang.
 paper_title: Scribble-Supervised Semantic Segmentation Inference.
 paper: International Conference on Computer Vision(ICCV) 21.
