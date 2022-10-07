@@ -12,7 +12,7 @@ description: "recent paper."
 tags: [Yong Li]
 websites: [teachers/LiYong]
 author: Yong Li, Q. Hao, J. Hu, X. Pan, Z. Li, Zhen Cui.
-paper_title: 3D3M: 3D Modulated Morphable Model for Monocular Face Reconstruction.
+paper_title: 3D Modulated Morphable Model for Monocular Face Reconstruction.
 paper: IEEE Transactions on Multimedia (T-MM) 22.
 categories: [Congratulations]
 ---
