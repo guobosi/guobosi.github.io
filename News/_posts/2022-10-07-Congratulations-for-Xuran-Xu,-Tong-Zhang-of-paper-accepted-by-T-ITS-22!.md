@@ -10,7 +10,7 @@ theme_color: '#ccc'
 invert_sidebar: true
 description: "recent paper."
 tags: [Xuran Xu,Tong Zhang,Chunyan Xu]
-websites: [students/Xuran Xu,teachers/Tong Zhang,teachers/Chunyan Xu]
+websites: [students/XuXuran,teachers/ZhangTong,teachers/XuChunyan]
 author: Xuran Xu, Tong Zhang, Chunyan Xu, Zhen Cui, Jian Yang.
 paper_title: Spatial-Temporal Tensor Graph Convolutional Network for Traffic Speed Prediction.
 paper: IEEE Transactions on Intelligence Transportation Systems (T-ITS) 22.
