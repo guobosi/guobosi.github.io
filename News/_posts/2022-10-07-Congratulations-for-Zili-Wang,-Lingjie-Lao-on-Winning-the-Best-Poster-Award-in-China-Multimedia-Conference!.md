@@ -10,7 +10,7 @@ theme_color: '#ccc'
 invert_sidebar: true
 description: "recent paper."
 tags: [Zili Wang,Lingjie Lao]
-websites: [students/Wangzili,students/LaoLingjie]
+websites: [students/WangZili,students/LaoLingjie]
 author: Z. Wang, L. Lao, X. Zhang, Y. Li, T. Zhang, Z. Cui.
 paper_title: Context-Dependent Emotion Recognition.
 paper: China Multimidea Conference 2022.
