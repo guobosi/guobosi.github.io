@@ -19,4 +19,4 @@ categories: [Congratulations]
 
 祝贺王子立，劳灵杰获2022年中国多媒体会议最佳海报奖。
 
-论文题目: Z. Wang, L. Lao, X. Zhang, Y. Li, T. Zhang, Z. Cui. Context-Dependent Emotion Recognition. Best Poster Award in China Multimidea Conference 2022.
+论文题目: Z. Wang, L. Lao, X. Zhang, Y. Li, T. Zhang, Z. Cui. Context-Dependent Emotion Recognition. Best Poster Award in China Multimidia Conference 2022.
