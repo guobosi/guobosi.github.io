@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Congratulations for Chuanwei Zhou, Zhen Cui of paper accepted by AAAI 2023!
+title: Congratulations for Chuanwei Zhou of paper accepted by AAAI 2023!
 image:
 accent_image:
   background: url('/assets/img/blog/jj-ying.jpg') center/cover
@@ -17,6 +17,6 @@ paper: Thirty-Seventh AAAI Conference on Artificial Intelligence (AAAI), 2023.
 categories: [Congratulations]
 ---
 
-祝贺周传伟，崔振的论文被AAAI 2023收录。
+祝贺周传伟的论文被AAAI 2023收录。
 
 论文题目: Chuanwei Zhou, Zhen Cui, Chunyan Xu, Cao Han, Jian Yang. Exploratory Inference Learning for Scribble Supervised Semantic Segmentation. Thirty-Seventh AAAI Conference on Artificial Intelligence (AAAI), 2023.
