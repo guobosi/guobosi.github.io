@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Congratulations for Xuran Xu, Tong Zhang of paper accepted by T-ITS 22!
+title: Congratulations for Xuran Xu of paper accepted by T-ITS 22!
 image:
 accent_image:
   background: url('/assets/img/blog/jj-ying.jpg') center/cover
@@ -17,6 +17,6 @@ paper: IEEE Transactions on Intelligence Transportation Systems (T-ITS) 22.
 categories: [Congratulations]
 ---
 
-祝贺徐旭冉，张桐的论文被T-ITS 22收录。
+祝贺徐旭冉的论文被T-ITS 22收录。
 
 论文题目: X. Xu, T. Zhang, C. Xu, Z. Cui, J. Yang. Spatial-Temporal Tensor Graph Convolutional Network for Traffic Speed Prediction, IEEE Transactions on Intelligence Transportation Systems (T-ITS) 22.
