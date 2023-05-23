@@ -11,7 +11,7 @@ invert_sidebar: true
 description: "recent paper."
 tags: [Hui Lv,Zhongqi Yue,Qianru Sun,Bin Luo,Zhen Cui,Hanwang Zhang]
 websites: [students/LvHui]
-author: Hui Li, Zhongqi Yue, Qianru Sun.
+author: Hui Lv, Zhongqi Yue, Qianru Sun.
 paper_title: Unbiased Multiple Instance Learning for Weakly Supervised Video Anomaly Detection.
 paper: IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2023.
 categories: [Congratulations]
