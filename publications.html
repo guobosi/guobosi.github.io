@@ -7,6 +7,7 @@ comments: false
 <div class="entry-content clearfix">
     <h2><strong><em>Paper lists over years:</em></strong></h2>
         <div class="layui-btn-container">
+            <button type="button" class="layui-btn layui-btn-radius" style="background-color: #979797;border:none"><a href="/publications/2023/" style="color: white;text-decoration:none;border-bottom:0px">2023</a></button>
             <button type="button" class="layui-btn layui-btn-radius" style="background-color: #9D9D9D;border:none"><a href="/publications/2022/" style="color: white;text-decoration:none;border-bottom:0px">2022</a></button>
             <button type="button" class="layui-btn layui-btn-radius" style="background-color: #A3A3A3;border:none"><a href="/publications/2021/" style="color: white;text-decoration:none;border-bottom:0px">2021</a></button>
             <button type="button" class="layui-btn layui-btn-radius" style="background-color: #A9A9A9;border:none"><a href="/publications/2020/" style="color: white;text-decoration:none;border-bottom:0px">2020</a></button>
@@ -17,7 +18,7 @@ comments: false
             <button type="button" class="layui-btn layui-btn-radius" style="background-color: #C7C7C7;border:none"><a href="/publications/before2015/" style="color: white;text-decoration:none;border-bottom:0px">before 2015</a></button>
         </div>
 
-    <h2><strong>Lateset publications:</strong></h2>
+    <h2><strong>Latest publications:</strong></h2>
 
        {% capture site_cats %}{% for cat in site.categories %}{{ cat | first }}{% unless forloop.last %},{% endunless %}{% endfor %}{% endcapture %}
 {% assign cats_list = site_cats | split:',' | sort %}
