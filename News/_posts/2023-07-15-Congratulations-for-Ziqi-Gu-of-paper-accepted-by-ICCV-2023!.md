@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Congratulations for Hui Lv of paper accepted by CVPR 2023!
+title: Congratulations for Ziqi Gu of paper accepted by ICCV 2023!
 image:
 accent_image:
   background: url('/assets/img/blog/jj-ying.jpg') center/cover
