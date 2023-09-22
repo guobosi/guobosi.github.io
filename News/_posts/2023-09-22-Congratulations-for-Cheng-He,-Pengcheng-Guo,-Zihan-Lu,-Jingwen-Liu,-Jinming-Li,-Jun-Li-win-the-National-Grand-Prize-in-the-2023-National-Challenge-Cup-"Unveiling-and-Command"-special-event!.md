@@ -12,7 +12,8 @@ description: "national grand prize."
 tags: [Cheng He, PengCheng Guo, ZiHan Lu, JingWen Liu.]
 websites: [students/HeCheng,students/Guopengcheng,students/Luzihan]
 author: Cheng He, Pengcheng Guo, Zihan Lu, Jingwen Liu.
-paper: National Grand Prize in the 2023 National Challenge Cup "Unveiling and Commanding" Special Event.
+paper_title: National Grand Prize.
+paper: 2023 National Challenge Cup "Unveiling and Commanding" Special Event.
 categories: [Congratulations]
 ---
 
