@@ -11,7 +11,7 @@ invert_sidebar: true
 description: "national grand prize."
 tags: [Cheng He, PengCheng Guo, ZiHan Lu, JingWen Liu.]
 websites: [students/HeCheng,students/Guopengcheng,students/Luzihan]
-author: Cheng Hu, Pengcheng Guo, Zihan Lu, Jingwen Liu.
+author: Cheng He, Pengcheng Guo, Zihan Lu, Jingwen Liu.
 categories: [Congratulations]
 ---
 
