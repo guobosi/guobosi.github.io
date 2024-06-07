@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Congratulations for Tong Zhang of paper accepted by T-PAMI 2024!"
+title: "Congratulations for Xudong Wang of paper accepted by Advanced Science 2024!"
 image:
 accent_image:
   background: url('/assets/img/blog/yuanshi.jpg') center/cover
