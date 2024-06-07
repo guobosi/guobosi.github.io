@@ -12,7 +12,7 @@ description: "recent paper."
 tags: [Xudong Wang, Tong Zhang, Guangbu Liu, Zhen Cui]
 websites: [students/Wangxudong, teachers/ZhangTong, students/Liuguangbu, teachers/CuiZhen]
 author: Xudong Wang, Tong Zhang, Guangbu Liu, Zhen Cui, Zhiyong Zeng, Cheng Long, Wenming Zheng, Jian Yang.
-paper_title: LightRoseTTA: High-efficient
+paper_title: LightRoseTTA
 paper: Advanced Science, 2024.
 categories: [Congratulations]
 ---
