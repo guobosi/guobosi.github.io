@@ -13,7 +13,7 @@ tags: [Xudong Wang, Tong Zhang, Guangbu Liu, Zhen Cui]
 websites: [students/Wangxudong, teachers/ZhangTong, students/Liuguangbu, teachers/CuiZhen]
 author: Xudong Wang, Tong Zhang, Guangbu Liu, Zhen Cui, Zhiyong Zeng, Cheng Long, Wenming Zheng, Jian Yang.
 paper_title: LightRoseTTA: High-efficient and Accurate Protein Structure Prediction Using an Ultra-Lightweight Deep Graph Model.
-paper: Advanced Science, 2024.
+paper: xxxx
 categories: [Congratulations]
 ---
 祝贺王旭东的论文被Advanced Science 2024收录。
