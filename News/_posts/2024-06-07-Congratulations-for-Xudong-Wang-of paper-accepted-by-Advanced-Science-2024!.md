@@ -11,7 +11,7 @@ invert_sidebar: true
 description: "recent paper."
 tags: [Xudong Wang, Tong Zhang, Guangbu Liu, Zhen Cui]
 websites: [students/Wangxudong, teachers/ZhangTong, students/Liuguangbu, teachers/CuiZhen]
-author: Tong Zhang, Guangbu Liu, Zhen Cui, Wei Liu, Wenming Zheng, Jian Yang.
+author: Xudong Wang, Tong Zhang, Guangbu Liu, Zhen Cui, Zhiyong Zeng, Cheng Long, Wenming Zheng, Jian Yang.
 paper_title: Wasserstein Discriminant Dictionary Learning for Graph Representation.
 paper: IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI) 2024.
 categories: [Congratulations]
