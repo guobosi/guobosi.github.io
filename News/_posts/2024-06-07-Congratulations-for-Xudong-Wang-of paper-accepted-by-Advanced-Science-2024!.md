@@ -16,6 +16,6 @@ paper_title: Wasserstein Discriminant Dictionary Learning for Graph Representati
 paper: IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI) 2024.
 categories: [Congratulations]
 ---
-祝贺张桐的论文被T-PAMI 2024收录。
+祝贺王旭东的论文被Advanced Science 2024收录。
 
-论文题目: Tong Zhang, Guangbu Liu, Zhen Cui, Wei Liu, Wenming Zheng, Jian Yang. Wasserstein Discriminant Dictionary Learning for Graph Representation. IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI), 2024.
+论文题目: Xudong Wang, Tong Zhang, Guangbu Liu, Zhen Cui, Zhiyong Zeng, Cheng Long, Wenming Zheng, Jian Yang. LightRoseTTA: High-efficient and Accurate Protein Structure Prediction Using an Ultra-Lightweight Deep Graph Model, Advanced Science, 2024.
