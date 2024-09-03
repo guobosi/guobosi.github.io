@@ -12,7 +12,7 @@ description: "recent paper."
 tags: [Xudong Wang, Tong Zhang, Guangbu Liu, Zhen Cui]
 websites: [students/Wangxudong, teachers/ZhangTong, students/Liuguangbu, teachers/CuiZhen]
 author: Xudong Wang, Tong Zhang, Guangbu Liu, Zhen Cui, Zhiyong Zeng, Cheng Long, Wenming Zheng, Jian Yang.
-paper_title: LightRoseTTA High-efficient and Accurate Protein Structure Prediction Using an Ultra-Lightweight Deep Graph Model.
+paper_title: TVDO: Tchebycheff Value-Decomposition Optimization for Multi-Agent Reinforcement Learning.
 paper: IEEE Transactions on Neural Networks and Learning Systems (T-NNLS), 2024.
 categories: [Congratulations]
 ---
