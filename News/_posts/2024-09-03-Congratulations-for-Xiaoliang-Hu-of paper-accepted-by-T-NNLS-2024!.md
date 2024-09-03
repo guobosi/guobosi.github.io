@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Congratulations for Xudong Wang of paper accepted by Advanced Science 2024!"
+title: "Congratulations for Xiaoliang Hu of paper accepted by T-NNLS 2024!"
 image:
 accent_image:
   background: url('/assets/img/blog/yuanshi.jpg') center/cover
@@ -10,7 +10,7 @@ theme_color: '#ccc'
 invert_sidebar: true
 description: "recent paper."
 tags: [Xiaoliang Hu, Pengcheng Guo, Yadong Li, Zhen Cui]
-websites: [students/Wangxudong, teachers/ZhangTong, students/Liuguangbu, teachers/CuiZhen]
+websites: [students/Huxiaoliang, students/Guopengcheng, students/Liyadong, teachers/CuiZhen]
 author: Xiaoliang Hu, Pengcheng Guo, Yadong Li, Guangyu Li, Zhen Cui, Jian Yang.
 paper_title: TVDO: Tchebycheff Value-Decomposition Optimization for Multi-Agent Reinforcement Learning.
 paper: IEEE Transactions on Neural Networks and Learning Systems (T-NNLS), 2024.
