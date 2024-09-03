@@ -9,10 +9,10 @@ accent_color: '#ccc'
 theme_color: '#ccc'
 invert_sidebar: true
 description: "recent paper."
-tags: [Xudong Wang, Tong Zhang, Guangbu Liu, Zhen Cui]
-websites: [students/Wangxudong, teachers/ZhangTong, students/Liuguangbu, teachers/CuiZhen]
-author: Xudong Wang, Tong Zhang, Guangbu Liu, Zhen Cui, Zhiyong Zeng, Cheng Long, Wenming Zheng, Jian Yang.
-paper_title: TVDO: Tchebycheff Value-Decomposition Optimization for Multi-Agent Reinforcement Learning.
+tags: [Xiaoliang Hu, Pengcheng Guo, Yadong Li, Zhen Cui]
+websites: [students/Huxiaoliang, students/Guopengcheng, students/Liyadong, teachers/CuiZhen]
+author: Xiaoliang Hu, Pengcheng Guo, Yadong Li, Guangyu Li, Zhen Cui, Jian Yang.
+paper_title: TVDO Tchebycheff Value-Decomposition Optimization for Multi-Agent Reinforcement Learning.
 paper: IEEE Transactions on Neural Networks and Learning Systems (T-NNLS), 2024.
 categories: [Congratulations]
 ---
