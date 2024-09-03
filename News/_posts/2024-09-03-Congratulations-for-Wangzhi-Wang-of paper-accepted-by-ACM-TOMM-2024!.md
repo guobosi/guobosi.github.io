@@ -9,7 +9,7 @@ accent_color: '#ccc'
 theme_color: '#ccc'
 invert_sidebar: true
 description: "recent paper."
-tags: [Yuanzhi Wang, Yong Li, Zhen Cui.]
+tags: [Yuanzhi Wang, Yong Li, Zhen Cui]
 websites: [students/Wangyuanzhi, teachers/LiYong, teachers/CuiZhen]
 author: Yuanzhi Wang, Yong Li, Xiaoya Zhang, Xin Liu, Anbo Dai, Antoni B. Chen, Zhen Cui.
 paper_title: Edit Temporal-Consistent Videos with Image Diffusion Model.
