@@ -9,9 +9,9 @@ accent_color: '#ccc'
 theme_color: '#ccc'
 invert_sidebar: true
 description: "recent paper."
-tags: [Xiaoliang Hu, Pengcheng Guo, Yadong Li, Guangyu Li, Zhen Cui]
-websites: [students/Wangxudong, teachers/ZhangTong, students/Liuguangbu, teachers/CuiZhen]
-author: d
+tags: [Xiaoliang Hu, Zhen Cui]
+websites: [students/Huxiaoliang, teachers/CuiZhen]
+author: Xiaoliang Hu, Pengcheng Guo, Yadong Li, Guangyu Li, Zhen Cui, Jian Yang.
 paper_title: TVDO: Tchebycheff Value-Decomposition Optimization for Multi-Agent Reinforcement Learning.
 paper: IEEE Transactions on Neural Networks and Learning Systems (T-NNLS), 2024.
 categories: [Congratulations]
