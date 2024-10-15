@@ -16,6 +16,6 @@ paper_title: Progressive Exploration-Conformal Learning for Sparsely Annotated O
 paper: Annual Conference on Neural Information Processing Systems (NeurIPS), 2024.
 categories: [Congratulations]
 ---
-祝贺罗嘉林和王元植的论文被NeurIPS 2024收录。
+祝贺卢子涵的论文被NeurIPS 2024收录。
 
 论文题目: Zihan Lu, Chunyan Xu, Chenxu Wang, Xiangwei Zheng, Zhen Cui. Progressive Exploration-Conformal Learning for Sparsely Annotated Object Detection in Aerial Images. Annual Conference on Neural Information Processing Systems (NeurIPS), 2024.
