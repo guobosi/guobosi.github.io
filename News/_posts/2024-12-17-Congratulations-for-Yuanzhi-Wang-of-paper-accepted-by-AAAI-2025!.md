@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Congratulations for Chenxu Wang of paper accepted by AAAI 2025!
+title: Congratulations for Yuanzhi Wang of paper accepted by AAAI 2025!
 image:
 accent_image:
   background: url('/assets/img/blog/yuanshi.jpg') center/cover
