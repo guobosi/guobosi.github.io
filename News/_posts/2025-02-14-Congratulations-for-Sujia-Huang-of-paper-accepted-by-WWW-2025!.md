@@ -9,7 +9,7 @@ accent_color: '#ccc'
 theme_color: '#ccc'
 invert_sidebar: true
 description: "recent paper."
-tags: [Sujia Huang, Yueyang Pi, Tong Zhang, Wenzhe Liu, Zhen Cui.]
+tags: [Sujia Huang, Tong Zhang, Zhen Cui.]
 websites: [students/HuangSujia,teachers/ZhangTong,teachers/CuiZhen]
 author: Sujia Huang, Yueyang Pi, Tong Zhang, Wenzhe Liu, Zhen Cui.
 paper_title: Boosting Graph Convolution with Disparity-induced Structural Refinement.
