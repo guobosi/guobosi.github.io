@@ -10,7 +10,7 @@ theme_color: '#ccc'
 invert_sidebar: true
 description: "recent paper."
 tags: [Fuyun Wang, Tong Zhang, Yuanzhi Wang, Yide Qiu, Xu Guo, Zhen Cui.]
-websites: [students/WangFuyun,teachers/ZhangTong,students/WangYuanzhi,students/QiuYide,students/Guoxu,teachers/CuiZhen]
+websites: [students/Wangfuyun,teachers/ZhangTong,students/Wangyuanzhi,students/Qiuyide,students/GuoXu,teachers/CuiZhen]
 author: Fuyun Wang, Tong Zhang, Yuanzhi Wang, Yide Qiu, Xin Liu, Xu Guo, Zhen Cui.
 paper_title: Distribution Prototype Diffusion Learning for Open-set Supervised Anomaly Detection.
 paper: IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2025.
