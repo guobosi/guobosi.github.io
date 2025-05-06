@@ -12,7 +12,7 @@ description: "recent paper."
 tags: [Sujia Huang, Tong Zhang, Yide Qiu, Zhen Cui]
 websites: [students/HuangSujia,teachers/ZhangTong,students/QiuYide,teachers/CuiZhen]
 author: Sujia Huang, Lele Fu, Tong Zhang, Shuman Zhuang, Yide Qiu, Zhen Cui, Bo Huang.
-paper_title: Going Beyond Consistency: Target-oriented Multi-view Graph Neural Network.
+paper_title: Going Beyond Consistency./: Target-oriented Multi-view Graph Neural Network.
 paper: International Joint Conference on Artificial Intelligence (IJCAI), 2025. 
 categories: [Congratulations]
 ---
