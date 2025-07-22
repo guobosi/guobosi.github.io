@@ -17,6 +17,6 @@ paper: International Conference on Computer Vision (ICCV), 2025.
 categories: [Congratulations]
 ---
 
-祝贺黄苏佳的论文被IJCAI 2025收录。
+祝贺王子夜的论文被IJCAI 2025收录。
 
 论文题目: Ziye Wang, Minghang Yu, Chunyan Xu, Zhen Cui. Semantic Discrepancy-aware Detector for Image Forgery Identification. International Conference on Computer Vision (ICCV), 2025.
