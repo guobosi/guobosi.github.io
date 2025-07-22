@@ -17,6 +17,6 @@ paper: International Conference on Computer Vision (ICCV), 2025.
 categories: [Congratulations]
 ---
 
-祝贺黄苏佳的论文被IJCAI 2025收录。
+祝贺廖伟的论文被IJCAI 2025收录。
 
 论文题目: Wei Liao, Chunyan Xu, Chenxu Wang, Zhen Cui. LLM-Assisted Semantic Guidance for Sparsely Annotated Remote Sensing Object Detection. International Conference on Computer Vision (ICCV), 2025.
