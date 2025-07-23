@@ -17,6 +17,6 @@ paper: International Journal of Computer Vision (IJCV), 2025.
 categories: [Congratulations]
 ---
 
-祝贺许春燕的论文被T-PAMI 2025收录。
+祝贺许春燕的论文被IJCV 2025收录。
 
 论文题目: Chunyan Xu, Shuaizhen Yao, Ziqiang Xu, Zhen Cui, Jian Yang. A Generalized Contour Vibration Model for Building Extraction. International Journal of Computer Vision (IJCV), 2025.  
