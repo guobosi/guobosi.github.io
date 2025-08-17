@@ -12,7 +12,7 @@ description: "recent paper."
 tags: [Xu Guo, Tong Zhang, Fuyun Wang, Xudong Wang, Zhen Cui.]
 websites: [students/GuoXu,teachers/ZhangTong,students/WangFuyun,students/WangXudong,teachers/CuiZhen]
 author: Xu Guo, Tong Zhang, Fuyun Wang, Xudong Wang, Xiaoya Zhang, Xin Liu, Zhen Cui.
-paper_title: MMHCL: Multi-Modal Hypergraph Contrastive Learning for Recommendation
+paper_title: MMHCL:Multi-Modal Hypergraph Contrastive Learning for Recommendation
 paper: ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM). 2025.
 categories: [Congratulations]
 ---
