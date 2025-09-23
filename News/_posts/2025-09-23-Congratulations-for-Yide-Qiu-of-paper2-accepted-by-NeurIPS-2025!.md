@@ -12,7 +12,7 @@ description: "recent paper."
 tags: [Yide Qiu, Tong Zhang, Shaoxiang Ling, Xing Cai, Ziqi Gu, Zhen Cui.]
 websites: [students/QiuYide,teachers/ZhangTong,students/LingShaoxiang,students/CaiXing,students/GuZiqi,teachers/CuiZhen]
 author: Yide Qiu, Tong Zhang, Shaoxiang Ling, Xing Cai, Ziqi Gu, Zhen Cui.
-paper_title: UniHG: A Large-scale Universal Heterogeneous Graph Dataset and Benchmark for Representation Learning and Cross-Domain Transferring
+paper_title: UniHG A Large-scale Universal Heterogeneous Graph Dataset and Benchmark for Representation Learning and Cross-Domain Transferring
 paper: Nerual Information Processing Systems (NeurIPS), 2025.
 categories: [Congratulations]
 ---
