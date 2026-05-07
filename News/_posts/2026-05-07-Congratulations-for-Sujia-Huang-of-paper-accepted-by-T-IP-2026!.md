@@ -12,7 +12,7 @@ description: "recent paper."
 tags: [SSujia Huang, Tong Zhang, Zhen Cui.]
 websites: [students/HuangSujia, teachers/ZhangTong, teachers/CuiZhen]
 author: Sujia Huang, Lele Fu, Zhaoliang Chen, Tong Zhang, Xiaoli Li, Zhen Cui.
-paper_title: ADANet: Adversarial Distribution Alignment Network for Multi-view Semi-supervised Classification
+paper_title: ADANet Adversarial Distribution Alignment Network for Multi-view Semi-supervised Classification
 paper: IEEE Transactions on Image Processing (T-IP), 2026.
 categories: [Congratulations]
 ---
