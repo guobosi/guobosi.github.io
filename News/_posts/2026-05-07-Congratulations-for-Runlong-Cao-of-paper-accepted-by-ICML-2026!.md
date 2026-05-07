@@ -12,7 +12,7 @@ description: "recent paper."
 tags: [Runlong Cao, Tong Zhang, Zhen Cui, Chunyan Xu.]
 websites: [students/CaoRunlong,teachers/ZhangTong, teachers/CuiZhen, teachers/XuChunyan]
 author: Runlong Cao, Ying Zang, Chuanwei Zhou, Tianrun Chen, Tong Zhang, Zhen Cui, Chunyan Xu.
-paper_title:  Learning to Label: A Reinforced Self-Evolving Framework for Semi-supervised Referring Expression Segmentation
+paper_title:  Learning to Label A Reinforced Self-Evolving Framework for Semi-supervised Referring Expression Segmentation
 paper: International Conference on Machine Learning (ICML), 2026.
 categories: [Congratulations]
 ---
