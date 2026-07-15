@@ -12,7 +12,7 @@ description: "recent paper."
 tags: [Runlong Cao, Tong Zhang, Zhen Cui, Chunyan Xu.]
 websites: [students/CaoRunlong,  teachers/ZhangTong, students/CuiZhen, teachers/XuChunyan]
 author: Runlong Cao, Yuming Zhang, Tianrun Chen, Xinda Yu, Ying Zang, Lanyun Zhu, Tong Zhang, Zhen Cui, Chunyan Xu.
-paper_title: SAM3-Adapter: Hierarchically Learning Task-Adaptive Prompts for Fine-Grained Segmentation.
+paper_title: SAM3-Adapter Hierarchically Learning Task-Adaptive Prompts for Fine-Grained Segmentation.
 paper: ACM International Conference on Multimedia (ACM MM), 2026.
 categories: [Congratulations]
 ---
