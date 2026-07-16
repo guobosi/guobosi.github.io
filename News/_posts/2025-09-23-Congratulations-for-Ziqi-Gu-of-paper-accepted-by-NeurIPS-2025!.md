@@ -12,7 +12,7 @@ description: "recent paper."
 tags: [Ziqi Gu, Chunyan Xu, Yide Qiu, Zhen Cui.]
 websites: [students/GuZiqi,teachers/XuChunyan,students/QiuYide,teachers/CuiZhen]
 author: Ziqi Gu, Chunyan Xu, Wenxuan Fang, Yide Qiu, Xin Liu, Zhen Cui.
-paper_title: Learn and Ensemble Bridge Adapters for Multi-domain Task Incremental Learning
+paper_title: Learn and Ensemble Bridge Adapters for Multi-domain Task Incremental Learning.
 paper: Nerual Information Processing Systems (NeurIPS), 2025.
 categories: [Congratulations]
 ---
