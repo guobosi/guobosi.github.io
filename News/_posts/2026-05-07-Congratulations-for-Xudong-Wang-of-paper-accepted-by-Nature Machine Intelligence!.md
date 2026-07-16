@@ -12,7 +12,7 @@ description: "recent paper."
 tags: [Xudong Wang, Tong Zhang, Zhen Cui, Xu Guo, Fuyun Wang, Yuanzhi Wang, Xing Cai.]
 websites: [students/WangXudong,teachers/ZhangTong,teachers/CuiZhen,students/GuoXu,students/WangFuyun,students/WanfYuanzhi,students/CaiXing]
 author: Xudong Wang, Tong Zhang, Zhen Cui, Xu Guo, Fuyun Wang, Yuanzhi Wang, Xing Cai, Wenming Zheng.
-paper_title: Two-dimensional geometric template diffusion for boosting single-sequence protein structure prediction
+paper_title: Two-dimensional geometric template diffusion for boosting single-sequence protein structure prediction.
 paper: Nature Machine Intelligence 2026.
 categories: [Congratulations]
 ---
