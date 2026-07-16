@@ -12,7 +12,7 @@ description: "recent paper."
 tags: [Yide Qiu, Tong Zhang, Xing Cai, Zhen Cui.]
 websites: [students/QiuYide,teachers/ZhangTong,students/CaiXing,teachers/CuiZhen]
 author: Yide Qiu, Tong Zhang, Xing Cai, Hui Yan, Zhen Cui.
-paper_title: One for All Universal Topological Primitive Transfer for Graph Structure Learning
+paper_title: One for All Universal Topological Primitive Transfer for Graph Structure Learning.
 paper: Nerual Information Processing Systems (NeurIPS), 2025.
 categories: [Congratulations]
 ---
