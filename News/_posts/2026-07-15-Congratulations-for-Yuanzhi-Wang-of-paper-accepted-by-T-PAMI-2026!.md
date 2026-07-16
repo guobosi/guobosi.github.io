@@ -12,7 +12,7 @@ description: "recent paper."
 tags: [Yuanzhi Wang, Zhen Cui]
 websites: [students/WangYuanzhi, teachers/CuiZhen]
 author: Yuanzhi Wang, Zhen Cui, Mengyi Liu, Xiaoya Zhang, Zechao Li.
-paper_title: Incomplete Multimodal Probability Flow Recovery for Emotion Recognition
+paper_title: Incomplete Multimodal Probability Flow Recovery for Emotion Recognition.
 paper: IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI), 2026.
 categories: [Congratulations]
 ---
