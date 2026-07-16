@@ -13,7 +13,7 @@ tags: [Yuanzhi Wang,  Zhen Cui]
 websites: [students/WangYuanzhi, teachers/CuiZhen]
 author: Yuanzhi Wang, Yong Li, Mengyi Liu, Xiaoya Zhang, Zhen Cui, Jian Yang.
 paper_title: Training-Free Controllable Text-Guided Video Editing
-paper: IEEE Transactions on Circuits and Systems for Video Technology (T-CSVT).
+paper: IEEE Transactions on Circuits and Systems for Video Technology (T-CSVT). 2026.
 categories: [Congratulations]
 ---
 
