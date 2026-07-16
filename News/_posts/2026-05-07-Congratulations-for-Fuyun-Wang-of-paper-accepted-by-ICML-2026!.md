@@ -12,7 +12,7 @@ description: "recent paper."
 tags: [Fuyun Wang, Yuanzhi Wang, Xu Guo, Sujia Huang, Tong Zhang, Zhen Cui.]
 websites: [students/WangFuyun,students/WangYuanzhi,students/GuoXu,students/HuangSujia,teachers/ZhangTong,teachers/CuiZhen]
 author: Fuyun Wang, Yuanzhi Wang, Xu Guo, Sujia Huang, Tong Zhang, Dan Wang, Hui Yan, Xin Liu, Zhen Cui. 
-paper_title: Mixture Prototype Flow Matching for Open-Set Supervised Anomaly Detection
+paper_title: Mixture Prototype Flow Matching for Open-Set Supervised Anomaly Detection.
 paper: International Conference on Machine Learning (ICML), 2026.
 categories: [Congratulations]
 ---
