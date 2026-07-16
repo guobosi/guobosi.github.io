@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Congratulations for Xing Cai of paper accepted by T-CBB 2025!
+title: Congratulations for Xing Cai of paper accepted by T-CBB 2026!
 image:
 accent_image:
   background: url('/assets/img/blog/yuanshi.jpg') center/cover
@@ -17,6 +17,6 @@ paper: IEEE Transactions on Computational Biology and Bioinformatics (T-CBB). 20
 categories: [Congratulations]
 ---
 
-祝贺蔡幸的论文被T-CBB 2025收录。
+祝贺蔡幸的论文被T-CBB 2026收录。
 
-论文题目: Xing Cai, Tong Zhang, Yide Qiu, Xudong Wang, Baotong Su, Zhen Cui. Minimum Description Length-Driven Fragment Mining for Pretraining Molecule Property Prediction Model. IEEE Transactions on Computational Biology and Bioinformatics (T-CBB). 2025.
+论文题目: Xing Cai, Tong Zhang, Yide Qiu, Xudong Wang, Baotong Su, Zhen Cui. Minimum Description Length-Driven Fragment Mining for Pretraining Molecule Property Prediction Model. IEEE Transactions on Computational Biology and Bioinformatics (T-CBB). 2026.
