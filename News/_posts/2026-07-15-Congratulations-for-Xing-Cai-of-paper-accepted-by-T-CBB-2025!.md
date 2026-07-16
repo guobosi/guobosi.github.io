@@ -13,7 +13,7 @@ tags: [Xing Cai, Tong Zhang, Yide Qiu, Xudong Wang, Baotong Su, Zhen Cui.]
 websites: [students/CaiXing, teachers/ZhangTong, students/QiuYide, students/WangXudong, students/SuBaotong, teachers/CuiZhen]
 author: Xing Cai, Tong Zhang, Yide Qiu, Xudong Wang, Baotong Su, Zhen Cui.
 paper_title: Minimum Description Length-Driven Fragment Mining for Pretraining Molecule Property Prediction Model.
-paper: IEEE Transactions on Computational Biology and Bioinformatics (T-CBB). 2025.
+paper: IEEE Transactions on Computational Biology and Bioinformatics (T-CBB). 2026.
 categories: [Congratulations]
 ---
 
