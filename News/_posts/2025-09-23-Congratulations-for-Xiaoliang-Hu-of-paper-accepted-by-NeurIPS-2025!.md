@@ -12,7 +12,7 @@ description: "recent paper."
 tags: [Xiaoliang Hu, Fuyun Wang, Tong Zhang, Zhen Cui.]
 websites: [students/HuXiaoliang,students/WangFuyun,teachers/ZhangTong,teachers/CuiZhen]
 author: Xiaoliang Hu, Fuyun Wang, Tong Zhang, Zhen Cui.
-paper_title: Value Diffusion Reinforcement Learning
+paper_title: Value Diffusion Reinforcement Learning.
 paper: Nerual Information Processing Systems (NeurIPS), 2025.
 categories: [Congratulations]
 ---
