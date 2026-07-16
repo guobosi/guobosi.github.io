@@ -12,7 +12,7 @@ description: "recent paper."
 tags: [Yuanzhi Wang, Zhen Cui.]
 websites: [students/WangYuanzhi, teachers/CuiZhen]
 author: Yuanzhi Wang, Xuhua Ren, Jiaxiang Cheng, bing ma, Kai Yu, Tianxiang Zheng, Qinglin Lu, Zhen Cui.
-paper_title: Implicit Preference Alignment for Human Image Animation
+paper_title: Implicit Preference Alignment for Human Image Animation.
 paper: International Conference on Machine Learning (ICML), 2026.
 categories: [Congratulations]
 ---
