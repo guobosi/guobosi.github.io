@@ -12,7 +12,7 @@ description: "recent paper."
 tags: [Sujia Huang,  Chunyan Xu, Tong Zhang, Zhen Cui.]
 websites: [students/HuangSujia,teachers/XuChunyan, teachers/ZhangTong, teachers/CuiZhen]
 author: Sujia Huang, Lele Fu, Shunxin Xiao, Xiaoya Zhang, Chunyan Xu, Tong Zhang, Bo Huang, Zhen Cui.
-paper_title: Homophily-Heterogeneity Gradient Surgery for Federated Graph Learning
+paper_title: Homophily-Heterogeneity Gradient Surgery for Federated Graph Learning.
 paper: International Conference on Machine Learning (ICML), 2026.
 categories: [Congratulations]
 ---
