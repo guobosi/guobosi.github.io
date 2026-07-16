@@ -12,7 +12,7 @@ description: "recent paper."
 tags: [Fuyun Wang, Yuanzhi Wang, Xu Guo, Sujia Huang, Tong Zhang, Zhen Cui.]
 websites: [students/WangFuyun, students/WangYuanzhi, students/GuoXu, students/HuangSujia, teachers/ZhangTong, teachers/CuiZhen]
 author: Fuyun Wang, Yuanzhi Wang, Xu Guo, Sujia Huang, Tong Zhang, Dan Wang, Xin Liu, Hui Yan, Zhen Cui.
-paper_title: Anomaly-Preference Image Generation
+paper_title: Anomaly-Preference Image Generation.
 paper: International Conference on Machine Learning (ICML), 2026.
 categories: [Congratulations]
 ---
